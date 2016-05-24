@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CameraTest</string>
+    <string name="btn_switch_fcamera">front camera</string>
+    <string name="btn_switch_rcamera">rear camera</string>
+    <string name="btn_switch_avin">avin camera</string>
+    <string name="btn_gps_coldstart">gps coldstart</string>
+</resources>
