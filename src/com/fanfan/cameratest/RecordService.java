@@ -1,4 +1,4 @@
-package com.fanfan.test;
+package com.fanfan.cameratest;
 
 import android.app.Service;
 import android.content.Context;
